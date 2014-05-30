@@ -1,0 +1,27 @@
+[general]
+name=topog4qgis
+qgisMinimumVersion=2.0
+description=Topographic tools for qGis
+version=version 0.00
+author=Giuliano Curti
+email=giulianc51 at gmail dot com
+category=Vector
+;
+
+; tag separati da virgole. Spazi ammessi
+tags=cad,vector,survey
+
+; questi metadati possono essere vuoti
+; in una futura versione dell'applicazione web
+; sarà probabilmente possibile creare un progetto su redmine
+; se questi metadati non sono compilati
+homepage=http://hub.qgis.org/wiki/topog4qgis/Wiki
+tracker=
+repository=http://plugins.qgis.org/plugins/topog4qgis
+icon=
+
+; flag sperimentale
+experimental=True
+
+; flag deprecata (si applica all'intero whole e non solo alla versione in upload)
+deprecated=False
