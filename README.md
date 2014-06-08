@@ -1,5 +1,7 @@
 topog4qgis
 ==========
+ENGLISH VERSION
+===============
 QGis Plugin for the italian cadastre update procedure (Pregeo)
 (2014-06-07)
 topog4qgis is a QGis 2.xx plugin allowing the user to manage classical and gps surveys.
@@ -18,7 +20,8 @@ Happy surveying!!
 
 Giuliano Curti e Giuseppe Patti
 
-
+VERSIONE ITALIANA
+=================
 Plugin QGis per la trattazione di libretti Pregeo (atti di aggiornamento catastale)
 
 (2014-06-07)
